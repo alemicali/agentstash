@@ -44,7 +44,7 @@
   "bugs": {
     "url": "https://github.com/alemicali/agentstash/issues"
   },
-  "homepage": "https://agentstash.io",
+  "homepage": "https://github.com/alemicali/agentstash",
   "engines": {
     "node": ">=18"
   },

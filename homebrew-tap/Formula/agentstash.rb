@@ -1,6 +1,6 @@
 class Agentstash < Formula
   desc "Encrypted incremental backups for AI coding agents"
-  homepage "https://agentstash.io"
+  homepage "https://github.com/alemicali/agentstash"
   url "https://registry.npmjs.org/agentstash/-/agentstash-0.2.1.tgz"
   sha256 "c22aff09f5955be2acebd50e71fba1a95452e96165646760045c879f0f82c4b0"
   license "MIT"

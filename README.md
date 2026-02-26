@@ -1,17 +1,9 @@
-<p align="center">
-  <img src=".github/assets/logo-light.png" alt="Agentstash" width="400" />
-</p>
+# agentstash
 
-<p align="center">
-  Encrypted incremental backups for AI coding agents.<br />
-  Set it up once, never think about it again.
-</p>
+**Encrypted incremental backups for AI coding agents.**
+Set it up once, never think about it again.
 
-<p align="center">
-  <a href="https://github.com/alemicali/agentstash/actions"><img src="https://github.com/alemicali/agentstash/actions/workflows/ci.yml/badge.svg" alt="CI" /></a>
-  <a href="https://www.npmjs.com/package/agentstash"><img src="https://img.shields.io/npm/v/agentstash" alt="npm" /></a>
-  <a href="https://github.com/alemicali/agentstash/blob/main/LICENSE"><img src="https://img.shields.io/github/license/alemicali/agentstash" alt="MIT License" /></a>
-</p>
+[![npm](https://img.shields.io/npm/v/agentstash)](https://www.npmjs.com/package/agentstash) [![MIT License](https://img.shields.io/github/license/alemicali/agentstash)](https://github.com/alemicali/agentstash/blob/main/LICENSE)
 
 ---
 
